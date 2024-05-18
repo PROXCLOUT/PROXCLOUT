@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PROXCLOUT
-- 👀 I’m interested in codeing and programming.
+- 👀 I’m interested backend programming.
 - 🌱 I’m currently learning Symfony and Node JS
 - 💞️ I’m looking to collaborate on diffrent interesting projects
 - 📫 Reach out to me via our Website coretecs.net or directly write me at patrick@coretecs.net
